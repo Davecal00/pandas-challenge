@@ -1,10 +1,20 @@
 # pandas-challenge
 
-# District Summary:
+# Observation
+1.	When comparing Highest-Performing Schools versus Lowest-Performing schools (By % Overall Passing), Charter Schools outperform District schools.
+
+2.	The charter schools spend less dollars per student while maintaining a higher overall passing scores as noted above. When comparing the average of the per-student budget between highest versus lowest performance, the top performers (all charter schools).
+
+
+
+
+
+
+# District Summary
 
 Perform the necessary calculations and then create a high-level snapshot of the district's key metrics in a DataFrame.
 
-# Include the following:
+# Include the following
 
 Total number of unique schools
 
@@ -22,7 +32,7 @@ Average reading score
 
 % overall passing (the percentage of students who passed math AND reading)
 
-# School Summary:
+# School Summary
 
 Perform the necessary calculations and then create a DataFrame that summarizes key metrics about each school.
 
@@ -58,21 +68,21 @@ Sort the schools by % Overall Passing in ascending order and display the top 5 r
 
 Save the results in a DataFrame called "bottom_schools".
 
-# Math Scores by Grade:
+# Math Scores by Grade
 
 Perform the necessary calculations to create a DataFrame that lists the average math score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
-# Reading Scores by Grade:
+# Reading Scores by Grade
 
 Create a DataFrame that lists the average reading score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
-# Scores by School Spending:
+# Scores by School Spending
 
 Create a table that breaks down school performance based on average spending ranges (per student).
 
 Use the code provided below to create four bins with reasonable cutoff values to group school spending.
 
-# Spending Summary:
+# Spending Summary
 
 Average math score
 
